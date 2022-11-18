@@ -5,9 +5,9 @@
   <a href="https://twitter.com/JorgeBarron28">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  
+  ![](https://komarev.com/ghpvc/?username=jorge8168711)
 </div>
-
-![](https://komarev.com/ghpvc/?username=jorge8168711)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jorge8168711&theme=dracula&hide_border=true)](https://git.io/streak-stats)
