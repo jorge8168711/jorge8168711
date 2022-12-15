@@ -5,8 +5,6 @@
   <a href="https://twitter.com/_JorgeBarron">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  
-  ![](https://komarev.com/ghpvc/?username=jorge8168711)
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorge8168711&count_private=true&show_icons=true&theme=dracula&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
