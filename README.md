@@ -20,7 +20,7 @@ I'm a software engineer focused on web technologies. I love Programming, Art, Mu
 
 I am a self-taught person, constantly improving my current skills and trying to learn new technologies.
 
-I have excellent skills as a Front-end developer with JavaScript as my primary programming language and frameworks like React.js, Angular and Next.js. In addition, I have worked on full-stack projects with technologies like Node.js and express. I have some experience working with React Native, but I'm more interested in learning technologies like Flutter or Swift.
+I have excellent skills as a Front-end developer with JavaScript as my primary programming language, TypeScript and frameworks like React.js, Angular and Next.js. In addition, I have worked on full-stack projects with technologies like Node.js and express. I have some experience working with React Native, but I'm more interested in learning technologies like Flutter or Swift.
 
 ### 🧙🏼‍♀️ More about me:
 - I'm currently working as JavaScript Engineer for a New York company.
