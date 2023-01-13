@@ -24,8 +24,8 @@ I have excellent skills as a Front-end developer with JavaScript as my primary p
 
 ### 🧙🏼‍♀️ More about me:
 - I'm currently working as JavaScript Engineer for a New York company.
+- I am currently specialized in technologies like React.js, Next.js and Node.js
 - I'm trying to finish my list of pending video games.
-- I like rhythm video games.
 
 ### 🤔 Interested in:
 - Mobile development with technologies like Swift or Flutter.
