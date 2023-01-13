@@ -24,7 +24,7 @@ I have excellent skills as a Front-end developer with JavaScript as my primary p
 
 ### 🧙🏼‍♀️ More about me:
 - I'm currently working as JavaScript Engineer for a New York company.
-- I'm currently trying to finish my list of pending video games.
+- I'm trying to finish my list of pending video games.
 - I like rhythm video games.
 
 ### 🤔 Interested in:
