@@ -16,7 +16,7 @@
 </div>
 
 
-I'm a Mexican a Web Developer focused on Front-end technologies with 7+ years of experience. I love Programming, Art, Music, Video Games and the combination of programming with any of these topics.
+I'm Mexican a Web Developer focused on Front-end technologies with 7+ years of experience. I love Programming, Art, Music, Video Games and the combination of programming with any of these topics.
 
 I am a self-taught person, constantly improving my current skills and trying to learn new technologies.
 
