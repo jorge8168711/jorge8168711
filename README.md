@@ -16,13 +16,11 @@
 </div>
 
 
-I'm Mexican a Web Developer focused on Front-end technologies with 7+ years of experience. I love Programming, Art, Music, Video Games and the combination of programming with any of these topics.
+I’m Mexican Web Developer focused on Front-end technologies with 7+ years of experience. I love Programming, Art, Music, Video Games and the combination of programming with any of these topics.
 
 I am a self-taught person, constantly improving my current skills and trying to learn new technologies.
-
 I have excellent skills as a Front-end developer with JavaScript as my primary programming language, TypeScript and frameworks like React.js, Angular and Next.js. In addition, I have worked on full-stack projects with technologies like Node.js and express.
-
-I have some experience working with React Native, but I'm more interested in learning technologies like Flutter or Swift.
+I have some experience working with React Native and developing PWAs, but I am more interested in learning technologies like Flutter or Swift.
 
 ### 🧙🏼‍♀️ More about me:
 - I'm currently working as JavaScript Engineer for a New York company.
