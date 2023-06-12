@@ -24,7 +24,7 @@ I have excellent skills as a Front-end developer with JavaScript as my primary p
 I have some experience working with React Native and developing PWAs, but I am more interested in learning technologies like Flutter or Swift.
 
 ### 🧙🏼‍♀️ More about me:
-- I'm currently working as JavaScript Engineer for a New York company.
+- I'm currently working as Fullstack Engineer at [Stori](https://www.storicard.com/)
 - I am currently specialized in technologies like React.js, Next.js and Node.js
 - I'm trying to finish my list of pending video games.
 
@@ -35,8 +35,7 @@ I have some experience working with React Native and developing PWAs, but I am m
 
 ### 👨🏽‍💻 Currently Learning:
 - I'm currently working on improving my Node.js skills.
-- Python and Django.
-- Rust and WebAssembly.
+- Go and Vue.js
 - Svelte.js
 
 ### 📈 My GitHub Stats:
@@ -45,3 +44,4 @@ I have some experience working with React Native and developing PWAs, but I am m
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jorge8168711&count_private=true&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true)
 
+https://www.storicard.com/
