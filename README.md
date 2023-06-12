@@ -43,5 +43,3 @@ I have some experience working with React Native and developing PWAs, but I am m
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jorge8168711&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jorge8168711&count_private=true&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true)
-
-https://www.storicard.com/
